@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,38 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Rakamin-Qwords Project
+
+## Setup atau Installasi
+
+1. Buka dua terminal untuk menjalankan server Laravel dan kompiler React.
+2. Ketik perintah berikut pada terminal pertama untuk menjalankan server Laravel:
+
+    ```bash
+    php artisan serve
+    ```
+
+3. Pada terminal kedua, jalankan perintah untuk mengkompilasi file React:
+
+    ```bash
+    npm run dev
+    ```
+
+4. Setelah langkah-langkah di atas selesai, buka aplikasi melalui browser di `localhost:8000`.
+
+## Tech Stack/Teknologi
+
+Proyek ini dibangun menggunakan teknologi-teknologi berikut:
+
+- Laravel (Backend)
+- React (Frontend)
+- JSX (JavaScript Syntax Extension)
+- CSS (Cascading Style Sheets)
+- Tailwind CSS (Styling)
+- DaisyUI (UI Components)
+
+## Sumber Template
+
+Proyek ini tidak menggunakan template khusus; namun, beberapa komponen dan elemen UI mungkin berasal dari DaisyUI dalam pembangunan frontend.
+>>>>>>> origin/main
