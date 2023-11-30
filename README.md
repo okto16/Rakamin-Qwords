@@ -30,4 +30,4 @@ Proyek ini dibangun menggunakan teknologi-teknologi berikut:
 
 ## Sumber Template
 
-Proyek ini tidak menggunakan template khusus; namun, beberapa komponen dan elemen UI mungkin berasal dari DaisyUI dalam pembangunan frontend.
+Proyek ini tidak menggunakan template khusus; namun, beberapa komponen dan elemen UI berasal dari DaisyUI dalam pembangunan frontend.
