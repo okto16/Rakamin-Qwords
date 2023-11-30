@@ -1,23 +1,68 @@
-### **Redesain Menawan untuk Landing Page Qwords!**
+# Rakamin-Qwords Project
 
-🎨 **Banner yang Lebih Menarik**
+Selamat datang di proyek Rakamin-Qwords! Proyek ini menggunakan kombinasi Laravel, React JSX, dan Tailwind CSS untuk menciptakan pengalaman yang dinamis dan menarik. Kami juga memanfaatkan komponen dari DaisyUI untuk mempercepat pengembangan.
 
-Menghadirkan nuansa yang segar dan inovatif, banner utama pada landing page Qwords kini tampil dengan desain yang lebih modern. Dua tombol andalan, "Cek Dulu Domain" dan "View Package", dengan lincahnya membawa pengunjung menuju pengalaman yang lebih menyeluruh.
+## Cara Setup atau Instalasi Website
 
-🌐 **Domain Checker yang Lebih User-Friendly**
+Berikut adalah langkah-langkah untuk mengatur proyek di mesin lokal Anda:
 
-Dengan sekali klik pada tombol "Cek Dulu Domain," pengguna akan diarahkan ke bagian Domain Checker yang lebih responsif dan user-friendly. Pengalaman memeriksa ketersediaan domain menjadi lebih cepat dan efisien.
+1. Clone repositori ini ke dalam folder lokal Anda:
 
-💼 **Package Section yang Lebih Menyakinkan**
+    ```bash
+    git clone https://github.com/username/Rakamin-Qwords.git
+    ```
 
-"View Package" membawa pengunjung langsung ke penawaran-penawaran terbaik Qwords. Sekarang, dengan penambahan sentuhan khusus berupa tulisan "Best Offers!" dan "Penawaran Terbaik!" pada bagian ini, kami memberikan kejelasan bahwa pengguna berada di tempat yang tepat untuk solusi hosting terbaik.
+2. Pindah ke folder proyek:
 
-🌈 **Perubahan Posisioning Icon yang Eye-Catching**
+    ```bash
+    cd Rakamin-Qwords
+    ```
 
-Ikon-ikon penting ditempatkan dengan cerdas di pojok kiri atas, menambahkan nuansa yang terorganisir dan memudahkan navigasi. Desain ikon yang menonjol di luar card memberikan sentuhan modern dan memberikan fokus pada elemen-elemen kunci.
+3. Setup proyek menggunakan Composer:
 
-🔄 **Carousel Testimonial yang Dinamis**
+    ```bash
+    composer create-project laravel/laravel
+    ```
 
-Bagian testimonial kini hadir dalam bentuk carousel dengan tombol next/prev yang mudah digunakan. Pengalaman membaca pengalaman positif pelanggan menjadi lebih dinamis dan interaktif.
+4. Install dependensi PHP menggunakan Breeze:
 
-Dengan sentuhan desain yang cerdas, pengalaman pengunjung di landing page Qwords meningkat secara keseluruhan. Desain yang lebih responsif dan modern tidak hanya memperkuat identitas merek, tetapi juga meningkatkan keterlibatan pengguna. Terus memberikan inspirasi melalui desain yang memukau! 🔥🚀
+    ```bash
+    php artisan breeze:install
+    ```
+
+5. Install dependensi JavaScript menggunakan npm:
+
+    ```bash
+    npm install
+    ```
+
+6. Jalankan server Laravel:
+
+    ```bash
+    php artisan serve
+    ```
+
+7. Di terminal kedua, kompilasi asset menggunakan npm:
+
+    ```bash
+    npm run dev
+    ```
+
+8. Buka aplikasi di browser Anda dengan mengunjungi [http://localhost:8000](http://localhost:8000)
+
+## Tech Stack/Teknologi yang Digunakan
+
+- Laravel
+- React JSX
+- Tailwind CSS
+- DaisyUI
+
+## Sumber Template
+
+Proyek ini tidak menggunakan template khusus; namun, beberapa komponen dan elemen UI mungkin berasal dari DaisyUI dalam pembangunan frontend.
+
+## Kontribusi
+
+Jika Anda ingin berkontribusi pada proyek ini, silakan buat *pull request*. Kami sangat menghargai kontribusi dari para pengembang!
+
+Terima kasih telah menggunakan Rakamin-Qwords. Selamat berkoding!
