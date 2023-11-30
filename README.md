@@ -24,6 +24,7 @@ Proyek ini dibangun menggunakan teknologi-teknologi berikut:
 - Laravel (Backend)
 - React (Frontend)
 - JSX (JavaScript Syntax Extension)
+- CSS (Cascading Style Sheets)
 - Tailwind CSS (Styling)
 - DaisyUI (UI Components)
 
